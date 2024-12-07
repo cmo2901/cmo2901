@@ -8,5 +8,5 @@ Welcome to my cybersecurity portfolio! I am a recent graduate with a BAS in cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/cmo2901/SIEM-Lab">Detection Lab</a>|
 
