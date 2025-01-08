@@ -1,6 +1,6 @@
 # Hello, I'm Colin!
 
-Welcome to my cybersecurity portfolio! I am a recent graduate with a BAS in cybersecurity. Here, I document my various projects as I continue to learn and build my skillset.
+Welcome to my cybersecurity portfolio! I recently earned my BAS in Cybersecurity from George Mason University. Here, I document my various projects as I continue to learn and build my skillset.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/cmo2901/) 🔗
 
@@ -9,3 +9,10 @@ Welcome to my cybersecurity portfolio! I am a recent graduate with a BAS in cybe
 <a href="https://github.com/cmo2901/SIEM-Lab">SIEM with Microsoft Azure & Sentinel</a>
 
 <a href="https://github.com/cmo2901/networklab">Building a Network with Cisco Packet Tracer</a>
+
+
+## Certifications
+
+<a href="https://www.credly.com/badges/03d46f1a-9b2b-4f51-9c2d-f1f8b809c435/linked_in?t=snzbm0">CompTIA Network+</a>
+
+<a href="https://www.credly.com/badges/cdfcb845-38a3-442a-b77d-84b6dc45a89d/linked_in">CompTIA Security+</a>
