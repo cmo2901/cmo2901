@@ -8,4 +8,4 @@ Welcome to my cybersecurity portfolio! I am a recent graduate with a BAS in cybe
 
 <a href="https://github.com/cmo2901/SIEM-Lab">SIEM with Microsoft Azure & Sentinel</a>
 
-<a href="https://google.com">Building a Network with Cisco Packet Tracer</a>
+<a href="https://github.com/cmo2901/networklab">Building a Network with Cisco Packet Tracer</a>
