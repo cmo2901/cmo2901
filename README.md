@@ -12,7 +12,7 @@ Welcome to my cybersecurity portfolio! I recently earned my BAS in Cybersecurity
 
 <a href="https://github.com/cmo2901/SQL-Lab">Querying Databases with SQL and SQL Filters</a>
 
-<a href="https://google.com">Updating Files with Python</a>
+<a href="https://github.com/cmo2901/python-lab">Updating Files with Python</a>
 
 ## Certifications
 
