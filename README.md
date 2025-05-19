@@ -14,6 +14,8 @@ Welcome to my cybersecurity portfolio! I recently earned my BAS in Cybersecurity
 
 <a href="https://github.com/cmo2901/python-lab">Updating a File with Python</a>
 
+<a href="https://google.com">Cybersecurity Homelab & End-to-End Cyberattack</a>
+
 ## Certifications
 
 <a href="https://www.credly.com/badges/03d46f1a-9b2b-4f51-9c2d-f1f8b809c435/linked_in?t=snzbm0">CompTIA Network+</a>
