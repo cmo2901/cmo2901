@@ -23,3 +23,5 @@ Welcome to my cybersecurity portfolio! I recently earned my BAS in Cybersecurity
 <a href="https://www.credly.com/badges/cdfcb845-38a3-442a-b77d-84b6dc45a89d/linked_in">CompTIA Security+</a>
 
 <a href="https://www.credly.com/badges/499e9e03-3864-4ae1-b6c1-b8b216013c23">Google Cybersecurity Certificate</a>
+
+<a href="https://www.credly.com/earner/earned/badge/385b7836-f424-42e8-887c-1616474d5bd1">AWS Certified Cloud Practitioner</a>
